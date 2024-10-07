@@ -1,6 +1,6 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/Design uten navn.png';
-import hero_img from '../../assets/hero-img-removebg-preview1.png';
+// import heroImg from '../../assets/Design uten navn.png';
+// import hero_img from '../../assets/hero-img-removebg-preview1.png';
 import downarrowanimation from '../../assets/Animation - 1719836184351.json';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
@@ -11,6 +11,7 @@ import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import { useTheme } from '../../common/ThemeContext';
+import leetCode from '../../assets/leetcode.png';
 import Lottie from 'react-lottie-player';
 
 function Hero() {
@@ -60,11 +61,14 @@ function Hero() {
           <a href="https://www.linkedin.com/in/ravi-kumar-a0027325b/" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
+          <a href='https://leetcode.com/u/myself_ravi_kumar/' target='_blank'>
+            <img src={leetCode} alt='Leetcode icon' />
+          </a>
         </span>
         <p className={styles.description}>
           Passionate about developing robust web applications from frontend to backend.
         </p>
-        <a href='https://drive.google.com/file/d/1uxzHF0fKVnLMzGrVbAlFLfi0QFtpL15F/view?usp=drive_link' target="_blank">
+        <a href='https://drive.google.com/file/d/1PfhpEsHLlEgfuV1OMmnHckEQb4hi8Rq7/view?usp=drive_link' target="_blank">
           <button className="hover">Resume</button>
         </a>
       </div>

@@ -24,7 +24,7 @@ function Experience() {
                     img={Vdev}
                     title="Backend Developer Freelancer"
                     company="vDev,Inc"
-                    duration="Jan 2024 - Present"
+                    duration="March 2024 - April 2024"
                     description="Currently working as a backend developer freelancer on a project Orma AI, an advanced events management platform. Developed and maintained the backend of the application."
                 />
                 <ExperienceCard

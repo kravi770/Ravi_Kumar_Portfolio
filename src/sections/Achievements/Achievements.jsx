@@ -7,7 +7,7 @@ function Achievements() {
             <div className={styles.achievementList}>
                 <div className={styles.achievement}>
                     <h3>Codechef</h3>
-                    <p>Achieved Highest Rating of <b>1638</b> #3⭐ in
+                    <p>Achieved Highest Rating of <b>1675</b> #3⭐ in
                         <a href="https://www.codechef.com/users/myself_ravi_ku" target="_blank" rel="noreferrer" style={
                             {
                                 color: 'blue',

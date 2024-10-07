@@ -47,6 +47,7 @@ function Skills() {
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Database Management Systems" />
         <SkillList src={checkMarkIcon} skill="Computer Networks" />
+        <SkillList src={checkMarkIcon} skill="Compiler Design" />
       </div>
 
     </section>

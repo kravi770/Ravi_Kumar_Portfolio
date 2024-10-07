@@ -32,12 +32,6 @@ function Projects() {
           p="A MERN stack web application for user management and ChatGPT interaction, featuring admin-controlled CRUD operations and user profile management. It also features a chatbot that can interact with users."
           techStack={['ReactJS', 'Material UI', 'NodeJS', 'ExpressJS', 'MongoDB']}
         />
-        {/* <ProjectCard
-          src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
-        /> */}
       </div>
     </section>
   );
