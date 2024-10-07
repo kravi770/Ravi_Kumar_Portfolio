@@ -22,7 +22,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/kravi770/portfolio.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
